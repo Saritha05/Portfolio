@@ -1,0 +1,57 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-image: url(network-mesh-wire-digital-technology-background_1017-27428.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #000000;
+  padding: 2rem 1rem;
+  text-align: left;
+}
+
+nav {
+  font-size: 20PX;
+  background: #333;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+section {
+  padding: 5px;
+  max-width: 900px;
+  margin: auto;
+}
+.Experience {
+  background: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #007acc;
+}
+
+.project {
+  background: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #007acc;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+  font-size: 0.9rem;
+}
